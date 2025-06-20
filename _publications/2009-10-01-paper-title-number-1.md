@@ -2,8 +2,8 @@
 title: "IKZF1::CIITA, a novel fusion transcript in a case of relapsed B‐cell acute lymphoblastic leukemia"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+permalink: /publication/2022-01
+excerpt: 'Targeting RNA Sequencing identifies novel fusion IKZF1::CIITA in a high-risk 'B-other' B-ALL.'
 date: July 2022
 venue: 'Pediatric Blood & Cancer'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
