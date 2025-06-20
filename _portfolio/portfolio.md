@@ -1,10 +1,10 @@
 ---
 title: "Top Skills"
 # excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
-# collection: portfolio
+collection: portfolio
 ---
 
-Molecular Techniques
+# Molecular Techniques
 - **Next Generation Sequencing (Illumina Chemistry)**
 - **Whole Transcriptome Sequencing**
 - **Sanger sequencing and data analysis**
@@ -13,17 +13,17 @@ Molecular Techniques
 - **Flow Cytometry**
 - **Animal cell Culture Techniques, Microinjection**
 
-Bioinformatics
+# Bioinformatics
 - **RNA Seq data analysis**
 - **Data wrangling & visualization**
 - **Protein Structure Modeling**
 - **Protein-Protein Docking**
 
-Programming Languages
+# Programming Languages
 - R
 - Python
 
-Methods & Concepts
+# Methods & Concepts
 - Gene set enrichment analysis (GSEA)
 - Gene Ontology enrichment analysis (David, Enrichr)
 - Differential Gene expression analysis (DESeq2, EdgeR)
