@@ -11,7 +11,7 @@ main:
   #- title: "Work"
    # url: /work/
   - title: "Portfolio"
-    url: /portfolio/portfolio-1.md  
+    url: /portfolio/ 
     
   - title: "Publications"
     url: /publications/
