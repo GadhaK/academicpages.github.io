@@ -59,13 +59,14 @@ $x-large                    : 1280px !default;
    Grid
    ========================================================================== */
 
-$right-sidebar-width-narrow : auto;
-$right-sidebar-width        : auto;
-$right-sidebar-width-wide   : auto;
+$right-sidebar-width-narrow : medium;
+$right-sidebar-width        : medium;
+$right-sidebar-width-wide   : medium;
+
 
 $susy: (
     columns: 12,
-    column-width: 300px,
+    column-width: 500px,
     gutters: 1/4,
     math: fluid,
     output: float,
