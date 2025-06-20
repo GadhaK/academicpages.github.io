@@ -4,11 +4,7 @@ title: "Top Skills"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
-
-# Top Skills
-
-## Molecular Techniques
+Molecular Techniques
 - **Next Generation Sequencing (Illumina Chemistry)**
 - **Whole Transcriptome Sequencing**
 - **Sanger sequencing and data analysis**
@@ -17,17 +13,17 @@ This is an item in your portfolio. It can be have images or nice text. If you na
 - **Flow Cytometry**
 - **Animal cell Culture Techniques, Microinjection**
 
-## Bioinformatics
+Bioinformatics
 - **RNA Seq data analysis**
 - **Data wrangling & visualization**
 - **Protein Structure Modeling**
 - **Protein-Protein Docking**
 
-## Programming Languages
+Programming Languages
 - R
 - Python
 
-## Methods & Concepts
+Methods & Concepts
 - Gene set enrichment analysis (GSEA)
 - Gene Ontology enrichment analysis (David, Enrichr)
 - Differential Gene expression analysis (DESeq2, EdgeR)
@@ -39,3 +35,4 @@ This is an item in your portfolio. It can be have images or nice text. If you na
 - Calling and Annotating mutations and genetic aberrations (VarScan2, CNVkit, ClinVar, COSMIC)
 - Statistical Analysis (Pearson/Spearman correlation, student t-test, wilcox rank sum test, ANOVA, Kruskal-Wallis test)
 -->title: 'Top Skills'
+# This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
