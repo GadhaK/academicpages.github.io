@@ -31,8 +31,9 @@ Methods & Concepts
 - Sequence Assembly & Alignment (BWA/STAR/BowTie)
 - Gene abundance estimations (feature-counts)
 - Survival Analysis (survminer and survival R packages)
+  
 <!--
 - Calling and Annotating mutations and genetic aberrations (VarScan2, CNVkit, ClinVar, COSMIC)
 - Statistical Analysis (Pearson/Spearman correlation, student t-test, wilcox rank sum test, ANOVA, Kruskal-Wallis test)
 -->title: 'Top Skills'
-# This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+<!-- This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
