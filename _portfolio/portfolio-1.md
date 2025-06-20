@@ -23,6 +23,14 @@ Programming Languages
 - R
 - Python
 
+Methods & Concepts
+- Gene set enrichment analysis (GSEA)
+- Gene Ontology enrichment analysis (David, Enrichr)
+- Differential Gene expression analysis (DESeq2, EdgeR)
+- Dimensionality reduction methods (t-SNE, PCA, hierarchical clustering)
+- Sequence Assembly & Alignment (BWA/STAR/BowTie)
+- Gene abundance estimations (feature-counts)
+- Survival Analysis (survminer and survival R packages)
 
   
 <!--
